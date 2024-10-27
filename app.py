@@ -1,4 +1,4 @@
-from conexion import detect_connection
+from connection import detect_connection
 from reading import read_message
 from processing import interpret_message
 from send_data import send_data
